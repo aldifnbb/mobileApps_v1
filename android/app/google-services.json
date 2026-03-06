@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000990435480",
+    "project_id": "chord-app-63d1a",
+    "storage_bucket": "chord-app-63d1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000990435480:android:9133f763896b7764d608ed",
+        "android_client_info": {
+          "package_name": "com.example.mobileapps_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwkh2PMv-VmSkaVaxjG4s9KgMqd0WM6bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
